@@ -1,6 +1,6 @@
 # London Transport Pulse
 
-![London Transport Pulse dashboard](public/screenshots/london-transport-pulse.png)
+![London Transport Pulse dashboard](public/screenshots/london-transport-pulse-current.png)
 
 London Transport Pulse is a real-time London transport dashboard built with Next.js. It combines live TfL service data, route geometry, vehicle predictions, disruption updates, crowding estimates, and weather into a polished operational view.
 
