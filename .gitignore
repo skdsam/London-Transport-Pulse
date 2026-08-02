@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.next-*/
+out/
+dist/
+
+*.log
+*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+
+map-check*.png
+map-clean-trains.png
+map-svg-final.png
+public/maplibre/
